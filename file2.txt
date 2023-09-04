@@ -2,3 +2,4 @@
 Hi i am file2..!
 }
 git branching strategy...!
+3*2=6
